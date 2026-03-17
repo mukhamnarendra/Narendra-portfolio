@@ -29,7 +29,7 @@ return(
 
 <p>{repo.description}</p>
 
-<a href={repo.html_url} target="_blank">
+<a href={repo.html_url} target="_blank" rel="noreferrer">
 View Code
 </a>
 
